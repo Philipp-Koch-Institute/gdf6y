@@ -1,0 +1,17 @@
+sample,organism,cell line,sex,treatment
+no019_EV_1,Mus musculus,Sertoli-like TM4 cells,male,empty vector (EV)
+no020_EV_2,Mus musculus,Sertoli-like TM4 cells,male,empty vector (EV)
+no021_EV_3,Mus musculus,Sertoli-like TM4 cells,male,empty vector (EV)
+no022_EV_4,Mus musculus,Sertoli-like TM4 cells,male,empty vector (EV)
+no023_EV_5,Mus musculus,Sertoli-like TM4 cells,male,empty vector (EV)
+no024_EV_6,Mus musculus,Sertoli-like TM4 cells,male,empty vector (EV)
+no025_gdf6Y_1,Mus musculus,Sertoli-like TM4 cells,male,gdf6Y
+no026_gdf6Y_2,Mus musculus,Sertoli-like TM4 cells,male,gdf6Y
+no027_gdf6Y_3,Mus musculus,Sertoli-like TM4 cells,male,gdf6Y
+no028_gdf6Y_4,Mus musculus,Sertoli-like TM4 cells,male,gdf6Y
+no029_gdf6Y_5,Mus musculus,Sertoli-like TM4 cells,male,gdf6Y
+no031_del9_1,Mus musculus,Sertoli-like TM4 cells,male,mutated gdf6Y (del9)
+no032_del9_2,Mus musculus,Sertoli-like TM4 cells,male,mutated gdf6Y (del9)
+no033_del9_3,Mus musculus,Sertoli-like TM4 cells,male,mutated gdf6Y (del9)
+no034_del9_4,Mus musculus,Sertoli-like TM4 cells,male,mutated gdf6Y (del9)
+no035_del9_5,Mus musculus,Sertoli-like TM4 cells,male,mutated gdf6Y (del9)

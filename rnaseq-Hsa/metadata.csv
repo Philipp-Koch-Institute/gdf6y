@@ -1,0 +1,19 @@
+sample,organism,cell line,sex,treatment
+no001_EV_1,Homo sapiens,HeLa cells,female,empty vector (EV)
+no002_EV_2,Homo sapiens,HeLa cells,female,empty vector (EV)
+no003_EV_3,Homo sapiens,HeLa cells,female,empty vector (EV)
+no004_EV_4,Homo sapiens,HeLa cells,female,empty vector (EV)
+no005_EV_5,Homo sapiens,HeLa cells,female,empty vector (EV)
+no006_EV_6,Homo sapiens,HeLa cells,female,empty vector (EV)
+no007_gdf6Y_1,Homo sapiens,HeLa cells,female,gdf6Y
+no008_gdf6Y_2,Homo sapiens,HeLa cells,female,gdf6Y
+no009_gdf6Y_3,Homo sapiens,HeLa cells,female,gdf6Y
+no010_gdf6Y_4,Homo sapiens,HeLa cells,female,gdf6Y
+no011_gdf6Y_5,Homo sapiens,HeLa cells,female,gdf6Y
+no012_gdf6Y_6,Homo sapiens,HeLa cells,female,gdf6Y
+no013_del9_1,Homo sapiens,HeLa cells,female,mutated gdf6Y (del9)
+no014_del9_2,Homo sapiens,HeLa cells,female,mutated gdf6Y (del9)
+no015_del9_3,Homo sapiens,HeLa cells,female,mutated gdf6Y (del9)
+no016_del9_4,Homo sapiens,HeLa cells,female,mutated gdf6Y (del9)
+no017_del9_5,Homo sapiens,HeLa cells,female,mutated gdf6Y (del9)
+no018_del9_6,Homo sapiens,HeLa cells,female,mutated gdf6Y (del9)
